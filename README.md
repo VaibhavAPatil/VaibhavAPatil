@@ -26,12 +26,5 @@ A student aspiring to pursue a career as a software developer.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavapatil&show_icons=true&theme=github_dark&text_color=#ffffff&icon_color=3382ed&bg_color=22272e&locale=en" alt="vaibhavapatil" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavapatil&theme=dark&background=22272e" alt="vaibhavapatil" /></p>
-0d1117 
-
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/VaibhavAPatil"><img src="https://github-readme-stats.vercel.app/api?username=VaibhavAPatil&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="VaibhavAPatil's GitHub stats" /></a>
-
-<a href="http://www.github.com/VaibhavAPatil"><img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavAPatil&stroke=ffffff&background=22272e&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavapatil&theme=dark&background=0d1117" alt="vaibhavapatil" /></p>
+ 
