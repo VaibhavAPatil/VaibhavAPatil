@@ -24,7 +24,7 @@ A student aspiring to pursue a career as a software developer.
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavapatil&show_icons=true&theme=github_dark&locale=en&layout=compact&background=22272e" alt="vaibhavapatil" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavapatil&show_icons=true&theme=github_dark&locale=en"&background=22272e alt="vaibhavapatil" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavapatil&show_icons=true&theme=github_dark&background=22272e&locale=en" alt="vaibhavapatil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavapatil&theme=dark&background=22272e" alt="vaibhavapatil" /></p>
 0d1117 
