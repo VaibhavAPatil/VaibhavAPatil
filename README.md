@@ -22,7 +22,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavapatil&show_icons=true&theme=github_dark&locale=en" alt="vaibhavapatil" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavapatil&theme=dark&background=0d1117" alt="vaibhavapatil" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavapatil&theme=dark&background=22272e" alt="vaibhavapatil" /></p>
+0d1117 
 
 <b>My GitHub Stats</b>
 
@@ -30,4 +31,4 @@
 
 <a href="http://www.github.com/Vaishnavi-A-Patil"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi-A-Patil&stroke=ffffff&background=22272e&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Vaishnavi-A-Patil" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-A-Patil&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/VaibhavAPatil" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-A-Patil&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
