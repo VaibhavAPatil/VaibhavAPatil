@@ -6,12 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=vaibhavapatil&label=Profile%20views&color=4c8eda&style=for-the-badge&" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-</p>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/vaibhav-a-patil" target="_blank">
