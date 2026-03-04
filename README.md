@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
-<p align="center">A student aspiring to pursue a career as a software developer.</p>
+<p align="center">A software developer.</p>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="center">
